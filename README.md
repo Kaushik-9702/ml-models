@@ -12,6 +12,8 @@ Each model includes:
 ## Covered
 - Linear Regression
 - Logistic Regression
-- Decision Trees (Coming soon)
+- Decision Trees 
 - Random Forest (Coming soon)
-- KNN (Coming soon)
+- KNN
+- Hierarichal Clustering using AgglomerativeClustering
+- K Means Clustering using Elbow Method/WCSS (Coming Soon)
